@@ -208,4 +208,4 @@ except Exception as e:
     print(f"An error occurred: {e}")
 finally:
     cap.release()
-    cv2.destroyAllWindows
+    cv2.destroyAllWindows()
