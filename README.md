@@ -79,29 +79,6 @@ pip install opencv-python mediapipe numpy
 
 ---
 
-## Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/sattriya-mudra-recognition.git
-cd sattriya-mudra-recognition
-```
-
-2. Install the required Python packages:
-
-```bash
-pip install opencv-python mediapipe numpy
-```
-
-3. Run the application:
-
-```bash
-python mudra_recognition.py
-```
-
----
-
 ## Usage
 
 - Launch the script. A webcam window titled **Mudra Identifier** will open.
