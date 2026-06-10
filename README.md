@@ -159,6 +159,3 @@ sattriya-mudra-recognition/
 
 ---
 
-## License
-
-This project is released for academic and educational purposes. Please cite this repository if you use it in research related to Indian classical dance or gesture recognition.
