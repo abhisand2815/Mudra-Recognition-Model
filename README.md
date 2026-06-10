@@ -52,6 +52,7 @@ Sattriya is one of the eight classical dance forms of India, originating from th
 | Kapittha | Grasping cymbals, worship of Lakshmi and Sarasvati |
 | Kangula | Lakuca fruit, bell, a bird |
 | Shukatunda | Parrot's beak — a hook, shooting an arrow |
+| Tamrachuda | Cock’s crest — a rooster, pride, alertness |
 
 ---
 
